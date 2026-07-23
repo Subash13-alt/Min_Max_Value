@@ -29,45 +29,6 @@ https://minmaxvalue-g7uvg6asjibbl6n9taunob.streamlit.app/
 
 ---
 
-## 📂 Project Structure
-
-```
-Min-Max-Divide-Conquer/
-│── app.py
-│── requirements.txt
-│── README.md
-```
-
----
-
-## ▶️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/min-max-divide-conquer.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd min-max-divide-conquer
-```
-
-Install the required package:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application:
-
-```bash
-streamlit run app.py
-```
-
----
-
 ## ⏱️ Time Complexity
 
 - **Divide & Conquer:** O(n)
